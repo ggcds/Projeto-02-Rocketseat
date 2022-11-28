@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="Site com foco em treinamentos personalizados." src=".github/preview.jpg" width="100%">
+  <img alt="Site com foco em treinamentos personalizados." src="preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
